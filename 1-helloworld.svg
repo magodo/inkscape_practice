@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="1-helloworld.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4570">
+      <stop
+         style="stop-color:#100606;stop-opacity:1;"
+         offset="0"
+         id="stop4566" />
+      <stop
+         style="stop-color:#100606;stop-opacity:0;"
+         offset="1"
+         id="stop4568" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4546">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4542" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4544" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4546"
+       id="linearGradient4548"
+       x1="-4.9136906"
+       y1="95.160713"
+       x2="-4.8655629"
+       y2="112.32798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1751825,0,0,1.1935484,118.50656,43.905191)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4570"
+       id="radialGradient4578"
+       cx="106.50691"
+       cy="201.98569"
+       fx="106.50691"
+       fy="201.98569"
+       r="75.770905"
+       gradientTransform="matrix(1,0,0,0.06878307,1.0690781,196.37784)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="172.33922"
+     inkscape:cy="479.39236"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#3b3ea2;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4550"
+       width="173.1131"
+       height="170.46725"
+       x="18.493971"
+       y="105.69032"
+       rx="6.8160105"
+       ry="5.6535635" />
+    <rect
+       id="rect3699"
+       width="121.70836"
+       height="41.955368"
+       x="47.436001"
+       y="155.82588"
+       style="stroke-width:0.24480246"
+       ry="6.7979307"
+       rx="6.6939878" />
+    <rect
+       id="rect3699-3"
+       width="121.70834"
+       height="42.711288"
+       x="47.436001"
+       y="155.82588"
+       style="fill:url(#linearGradient4548);fill-opacity:1;stroke-width:0.23049901"
+       ry="5.8586311"
+       rx="5.8586311" />
+    <ellipse
+       style="fill:url(#radialGradient4578);fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:0.42687749"
+       id="path4554"
+       cx="107.57599"
+       cy="210.27106"
+       rx="75.770905"
+       ry="5.2117558" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4580"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4582"><rect
+           id="rect4584"
+           width="238.396"
+           height="71.720833"
+           x="277.79196"
+           y="627.54492" /></flowRegion><flowPara
+         id="flowPara4586"
+         style="fill:#6db2b2;fill-opacity:1">Hello World</flowPara></flowRoot>  </g>
+</svg>
